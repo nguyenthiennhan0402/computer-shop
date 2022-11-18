@@ -8,7 +8,7 @@
             <li class="catalog-list-item">
                 <a class="catalog-item-link">Linh kiện máy tính</a>
             </li>
-            <li  class="catalog-list-item test2">
+            <li  class="catalog-list-item">
                 <a class="catalog-item-link">Laptop</a>
             </li>
             <li class="catalog-list-item">
@@ -22,8 +22,9 @@
             </li>
             <li class="catalog-list-item">
                 <a class="catalog-item-link">Tai nghe</a>
-            </li>    
+            </li>   
         </ul>
+       
     </div>
     <div class="body-content col-md-10">
     </div>

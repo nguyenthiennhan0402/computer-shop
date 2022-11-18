@@ -109,12 +109,10 @@
     background-color:#50bf77;
     height:800px;
 }
-
-
-/*phan catalog*/
 .catalog-div{
-    padding-left: 0px;
-    padding-right: 0px;
+    background-color:#50bf77;
+    padding-left:0px;
+    padding-right:0px;
 }
 .catalog-list-item {
     height: 40px;
@@ -125,8 +123,5 @@
     text-decoration: none;
     font-family: inherit;
     font-size: 13px;
-}
-.test2{
-    color:#ccc;
 }
 
