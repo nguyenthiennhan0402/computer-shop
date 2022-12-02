@@ -114,12 +114,12 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Site.css" />
     <Content Include="Default.aspx" />
-    <Content Include="detail.css" />
+    <Content Include="assets\css\detail.css" />
     <Content Include="detailProduct.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="giohang.aspx" />
-    <Content Include="giohang.css" />
+    <Content Include="assets\css\giohang.css" />
     <Content Include="Global.asax" />
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />

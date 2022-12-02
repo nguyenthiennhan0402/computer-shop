@@ -60,7 +60,8 @@
     font-weight: 700;
     height: 40px;
     font-family: Roboto,sans-serif;
-    margin-top:16px;
+    margin-top: 16px;
+    margin-bottom: 8px;
 }
 .detail-des-margin-top{
     margin-top:8px;

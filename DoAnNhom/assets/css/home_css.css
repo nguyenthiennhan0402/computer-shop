@@ -144,7 +144,6 @@
     text-decoration: none;
     color: #0e5400;
 }
-/*css cho list product*/
 .container-product{
     margin-top:40px;
     display:flex;
@@ -156,7 +155,8 @@
     border-radius: 10px;
     background-color: #fff;
     box-shadow: 0px 6px 12px 0px #8888;
-    margin-bottom:18px;
+    margin-bottom: 18px;
+    
 }
 .product-div-img {
     width: 216px;
@@ -170,10 +170,7 @@
 .product-content{
     padding: 12px 18px;
 }
-.product-header{
-    font-size:16px;
-    color:#000;
-}
+
 .product-item-link{
     text-decoration:none;
     color:#000;
