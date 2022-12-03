@@ -5,7 +5,7 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <div class="container">
         <div class="row">
-            <!--ĐĂNG NHẬP-->
+            <!--Form ĐĂNG NHẬP-->
             <div class="col">
 
                 <div class="row">
