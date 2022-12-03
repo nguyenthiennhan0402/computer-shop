@@ -25,6 +25,7 @@ namespace DoAnNhom
             dlhomeproduct.DataSource = dt;
             dlhomeproduct.DataBind();
             conn.Close();
+           //123
         }
         protected void Page_Load(object sender, EventArgs e)
         {
